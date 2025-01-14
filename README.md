@@ -3,9 +3,10 @@ Phishing para captura de senhas do Facebook
 
 Ferramentas:
 
-Kali Linux
+Kali Linux com a ferramenta setoolkit
+https://www.geeksforgeeks.org/how-to-install-social-engineering-toolkit-in-kali-linux/
+git clone https://github.com/trustedsec/social-engineer-toolkit setoolkit/
 
-setoolkit
 
 Configurando o Phishing no Kali Linux:
 
